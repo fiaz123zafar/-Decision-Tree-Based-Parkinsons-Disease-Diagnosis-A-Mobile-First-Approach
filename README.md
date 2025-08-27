@@ -1,4 +1,4 @@
-# -Decision-Tree-Based-Parkinsons-Disease-Diagnosis-A-Mobile-First-Approach
+# Decision Tree-Based Parkinsons Disease Diagnosis and Classifications:A Mobile First Approach
 🔹 Project Overview
 
 Designed and implemented a machine learning–based diagnostic system to support the early detection of Parkinson’s Disease (PD). The project leverages decision tree classifiers and comparative ML models to analyze patient datasets, focusing on both motor and non-motor symptoms. A mobile-first web application (Streamlit) was developed for accessibility, enabling patients and healthcare professionals to use the tool across devices.
