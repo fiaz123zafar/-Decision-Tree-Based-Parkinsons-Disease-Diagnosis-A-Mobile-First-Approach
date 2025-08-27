@@ -1,0 +1,2 @@
+zaffar\Scripts\activate
+streamlit run main.py
